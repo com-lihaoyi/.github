@@ -25,3 +25,10 @@ Scala in the easy and productive way, you check out the following book:
 - [Hands-on Scala Programming: *learn the Scala language in a practical, project-based way*](https://www.handsonscala.com/)
 
 
+*Hands-on Scala Programming* also comes with over 150 worked examples that demonstrate how to use
+Scala with the `com-lihaoyi` projects in a wide variety of real scenarios:
+
+- [Hands-on Scala Programming Online Examples]([a cookbook containing](https://github.com/handsonscala/handsonscala#part-i-introduction-to-scala))
+
+These examples are free to browse online, and are a great way to kickstart your next application, 
+project or business using the Scala programming language.
