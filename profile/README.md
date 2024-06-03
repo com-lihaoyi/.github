@@ -2,7 +2,7 @@
 
 The `com-lihaoyi` ecosystem lets you write Scala in an easy and productive way
 while delivering real business value. It provides all the core building blocks a
-typical software engineer needs day to day: HTTP clients and servers, data serialization,
+typical software engineer needs day to day: HTTP clients and servers, JSON/binary data serialization,
 filesystem operations, CLI argument parsing, build tooling, etc. These can be combined in
 a variety of ways to perform many useful real-world tasks:
 
