@@ -6,7 +6,7 @@ typical software engineer needs day to day: HTTP clients and servers, data seria
 filesystem operations, CLI argument parsing, build tooling, etc. These can be combined in
 a variety of ways to perform many useful real-world tasks:
 
-- Build a website with [Cask](https://github.com/com-lihaoyi/cask),
+- Build a website or API server with [Cask](https://github.com/com-lihaoyi/cask),
   [ScalaSql](https://github.com/com-lihaoyi/scalasql), and
   [Scalatags](https://github.com/com-lihaoyi/scalatags) ([Example](https://github.com/com-lihaoyi/cask/blob/master/example/todo/app/src/TodoServer.scala))
 
