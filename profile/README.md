@@ -22,6 +22,6 @@ a variety of ways to perform many useful real-world tasks:
 The `com-lihaoyi` projects are all open source, but if you want to learn more about writing
 Scala in the easy and productive way, you check out the following book:
 
-- [Hands-on Scala Programming: Learn the Scala Language in a Practical, Project-based Way](https://www.handsonscala.com/)
+- [Hands-on Scala Programming: *Learn the Scala Language in a Practical, Project-based Way*](https://www.handsonscala.com/)
 
 
