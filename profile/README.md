@@ -11,13 +11,13 @@ a variety of ways to perform many useful real-world tasks:
   [Scalatags](https://github.com/com-lihaoyi/scalatags) ([Example](https://github.com/com-lihaoyi/cask/blob/master/example/todo/app/src/TodoServer.scala))
 
 - Write a command-line utility with [MainArgs](https://github.com/com-lihaoyi/mainargs) and
-  [OS-Lib](https://github.com/com-lihaoyi/os-lib) 
+  [OS-Lib](https://github.com/com-lihaoyi/os-lib)  ([Examples](https://github.com/com-lihaoyi/os-lib?tab=readme-ov-file#cookbook))
 
 - Automate some third-party JSON APIs via [Requests-Scala](https://github.com/com-lihaoyi/requests-scala)
   and [uPickle](https://github.com/com-lihaoyi/upickle) ([Example](https://github.com/handsonscala/handsonscala/tree/v1/examples/12.1%20-%20IssueMigrator))
 
 - Build and test an existing Scala project more quickly and interactively with the
-  [Mill Build Tool](https://github.com/com-lihaoyi/mill) or the [Ammonite REPL](https://github.com/com-lihaoyi/Ammonite)
+  [Mill Build Tool](https://github.com/com-lihaoyi/mill) or the [Ammonite REPL](https://github.com/com-lihaoyi/Ammonite) (Examples](https://mill-build.com/mill/Intro_to_Mill.html#_simple_scala_module))
 
 The `com-lihaoyi` ecosystem is all open source, but if you want to learn more about writing
 Scala in the easy and productive way, you check out the following book:
