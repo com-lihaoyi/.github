@@ -1,4 +1,4 @@
-## The com-lihaoyi Scala Ecosystem 👋
+## The com-lihaoyi Scala Ecosystem 🇸🇬
 
 The `com-lihaoyi` ecosystem lets you write Scala in an easy and productive way
 while delivering real business value. It provides all the core building blocks a
