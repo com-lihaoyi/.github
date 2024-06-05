@@ -16,8 +16,8 @@ a variety of ways to perform many useful real-world tasks:
 - Automate some third-party JSON APIs via [Requests-Scala](https://github.com/com-lihaoyi/requests-scala)
   and [uPickle](https://github.com/com-lihaoyi/upickle) ([Example](https://github.com/handsonscala/handsonscala/tree/v1/examples/12.1%20-%20IssueMigrator))
 
-- Build and test any existing Scala project more quickly and interactively with the
-  [Ammonite REPL](https://github.com/com-lihaoyi/Ammonite) or the [Mill Build Tool](https://github.com/com-lihaoyi/mill) ([Examples](https://mill-build.com/mill/Intro_to_Mill.html#_simple_scala_module))
+- Write an incremental static site generator using the [Mill Build Tool](https://github.com/com-lihaoyi/mill) [Example](https://mill-build.com/mill/Cross_Builds.html#_use_case_static_blog),
+  together with [OS-Lib](https://github.com/com-lihaoyi/os-lib) and [Scalatags](https://github.com/com-lihaoyi/scalatags)
 
 The `com-lihaoyi` projects are all open source, but if you want to learn more about writing
 Scala in the easy and productive way, you check out the following book:
