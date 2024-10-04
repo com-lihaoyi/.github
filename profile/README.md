@@ -22,6 +22,11 @@ a variety of ways to perform many useful real-world tasks:
   together with [OS-Lib](https://github.com/com-lihaoyi/os-lib) and [Scalatags](https://github.com/com-lihaoyi/scalatags)
   ([Example](https://mill-build.com/mill/Cross_Builds.html#_use_case_static_blog))
 
+The `com-lihaoyi` organization maintains an ongoing issue bounty program, paying out 100s to 1000s 
+of USD for the completion of various issues. See the up-to-date listing here:
+
+- https://github.com/orgs/com-lihaoyi/discussions/6
+
 The `com-lihaoyi` projects are all open source, but if you want to learn more about writing
 Scala in the easy and productive way, you check out the following book:
 
