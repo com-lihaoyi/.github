@@ -1,6 +1,6 @@
-## The com-lihaoyi Scala Platform 🇸🇬
+## The lihaoyi Scala Platform 🇸🇬
 
-The `com-lihaoyi` platform lets you write Scala in an easy and productive way
+The `lihaoyi` platform lets you write Scala in an easy and productive way
 while delivering real business value. It provides all the core building blocks a
 typical software engineer needs day to day: HTTP clients and servers, JSON/binary data serialization,
 filesystem operations, CLI argument parsing, build tooling, etc. These can be combined in
@@ -27,14 +27,14 @@ of USD for the completion of various issues. See the up-to-date listing here:
 
 - https://github.com/orgs/com-lihaoyi/discussions/6
 
-The `com-lihaoyi` projects are all open source, but if you want to learn more about writing
+The `lihaoyi` projects are all open source, but if you want to learn more about writing
 Scala in the easy and productive way, you check out the following book:
 
 - [Hands-on Scala Programming: *learn the Scala language in a practical, project-based way*](https://www.handsonscala.com/)
 
 
 *Hands-on Scala Programming* also comes with over 150 worked examples that demonstrate how to use
-Scala with the `com-lihaoyi` projects in a wide variety of real scenarios:
+Scala with the `lihaoyi` projects in a wide variety of real scenarios:
 
 - [Online Examples](https://github.com/handsonscala/handsonscala#part-i-introduction-to-scala)
 
