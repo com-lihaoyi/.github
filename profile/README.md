@@ -24,19 +24,19 @@ a variety of ways to perform many useful real-world tasks:
 
 ### Latest Projects Versions
 
-* [![](https://img.shields.io/maven-central/v/com.lihaoyi/mill-libs_3?color=blue&label=mill)](https://www.github.com/com-lihaoyi/mill)
-* [![](https://img.shields.io/maven-central/v/com.lihaoyi/os-lib_3?color=blue&label=os-lib)](https://www.github.com/com-lihaoyi/os-lib)
-* [![](https://img.shields.io/maven-central/v/com.lihaoyi/requests_3?color=blue&label=requests)](https://www.github.com/com-lihaoyi/requests-scala) 
-* [![](https://img.shields.io/maven-central/v/com.lihaoyi/upickle_3?color=blue&label=upickle)](https://www.github.com/com-lihaoyi/upickle)
-* [![](https://img.shields.io/maven-central/v/com.lihaoyi/scalasql_3?color=blue&label=scalasql)](https://www.github.com/com-lihaoyi/scalasql) 
-* [![](https://img.shields.io/maven-central/v/com.lihaoyi/cask_3?color=blue&label=cask)](https://www.github.com/com-lihaoyi/cask)
-* [![](https://img.shields.io/maven-central/v/com.lihaoyi/mainargs_3?color=blue&label=mainargs)](https://www.github.com/com-lihaoyi/mainargs)
-* [![](https://img.shields.io/maven-central/v/com.lihaoyi/fastparse_3?color=blue&label=fastparse)](https://www.github.com/com-lihaoyi/fastparse) 
-* [![](https://img.shields.io/maven-central/v/com.lihaoyi/utest_3?color=blue&label=utest)](https://www.github.com/com-lihaoyi/utest)
-* [![](https://img.shields.io/maven-central/v/com.lihaoyi/pprint_3?color=blue&label=pprint)](https://www.github.com/com-lihaoyi/pprint)
-* [![](https://img.shields.io/maven-central/v/com.lihaoyi/sourcecode_3?color=blue&label=sourcecode)](https://www.github.com/com-lihaoyi/sourcecode)
-* [![](https://img.shields.io/maven-central/v/com.lihaoyi/fansi_3?color=blue&label=fansi)](https://www.github.com/com-lihaoyi/fansi)
-* [![](https://img.shields.io/maven-central/v/com.lihaoyi/geny_3?color=blue&label=geny)](https://www.github.com/com-lihaoyi/geny)
+* [![](https://img.shields.io/maven-central/v/com.lihaoyi/mill-libs_3?color=blue&label=mill)](https://www.github.com/com-lihaoyi/mill): a better build tool for Java, Scala, and Kotlin
+* [![](https://img.shields.io/maven-central/v/com.lihaoyi/os-lib_3?color=blue&label=os-lib)](https://www.github.com/com-lihaoyi/os-lib): a library for interfacing with common OS filesystem and subprocess APIs
+* [![](https://img.shields.io/maven-central/v/com.lihaoyi/requests_3?color=blue&label=requests)](https://www.github.com/com-lihaoyi/requests-scala): a Scala port of the popular Python Requests HTTP client
+* [![](https://img.shields.io/maven-central/v/com.lihaoyi/upickle_3?color=blue&label=upickle)](https://www.github.com/com-lihaoyi/upickle): a simple, fast, dependency-free JSON & Binary serialization library 
+* [![](https://img.shields.io/maven-central/v/com.lihaoyi/scalasql_3?color=blue&label=scalasql)](https://www.github.com/com-lihaoyi/scalasql): an ORM to query SQL databases via concise and familiar collection operations 
+* [![](https://img.shields.io/maven-central/v/com.lihaoyi/cask_3?color=blue&label=cask)](https://www.github.com/com-lihaoyi/cask): a HTTP micro-framework for websites, backend servers, or REST APIs
+* [![](https://img.shields.io/maven-central/v/com.lihaoyi/mainargs_3?color=blue&label=mainargs)](https://www.github.com/com-lihaoyi/mainargs): a small, convenient, dependency-free library for command-line argument parsing
+* [![](https://img.shields.io/maven-central/v/com.lihaoyi/fastparse_3?color=blue&label=fastparse)](https://www.github.com/com-lihaoyi/fastparse): a library for easily writing high-performance parsers
+* [![](https://img.shields.io/maven-central/v/com.lihaoyi/utest_3?color=blue&label=utest)](https://www.github.com/com-lihaoyi/utest): a simple testing framework 
+* [![](https://img.shields.io/maven-central/v/com.lihaoyi/pprint_3?color=blue&label=pprint)](https://www.github.com/com-lihaoyi/pprint): a library for pretty-printing values, types and type-signatures
+* [![](https://img.shields.io/maven-central/v/com.lihaoyi/sourcecode_3?color=blue&label=sourcecode)](https://www.github.com/com-lihaoyi/sourcecode): a library providing "source" metadata to your program
+* [![](https://img.shields.io/maven-central/v/com.lihaoyi/fansi_3?color=blue&label=fansi)](https://www.github.com/com-lihaoyi/fansi): a library for manipulating Fancy Ansi colored strings
+* [![](https://img.shields.io/maven-central/v/com.lihaoyi/geny_3?color=blue&label=geny)](https://www.github.com/com-lihaoyi/geny): interfacces for manipulating streaming collections and bytestreams
 
 
 ### Bounties
