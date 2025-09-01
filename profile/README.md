@@ -22,6 +22,25 @@ a variety of ways to perform many useful real-world tasks:
   together with [OS-Lib](https://github.com/com-lihaoyi/os-lib) and [Scalatags](https://github.com/com-lihaoyi/scalatags)
   ([Example](https://mill-build.com/mill/Cross_Builds.html#_use_case_static_blog))
 
+### Latest Projects Versions
+
+* ![](https://img.shields.io/maven-central/v/com.lihaoyi/mill-libs_3?color=blue&label=mill)
+* ![](https://img.shields.io/maven-central/v/com.lihaoyi/os-lib_3?color=blue&label=os-lib)
+* ![](https://img.shields.io/maven-central/v/com.lihaoyi/requests_3?color=blue&label=requests) 
+* ![](https://img.shields.io/maven-central/v/com.lihaoyi/upickle_3?color=blue&label=upickle)
+* ![](https://img.shields.io/maven-central/v/com.lihaoyi/scalasql_3?color=blue&label=scalasql) 
+* ![](https://img.shields.io/maven-central/v/com.lihaoyi/cask_3?color=blue&label=cask)
+* ![](https://img.shields.io/maven-central/v/com.lihaoyi/mainargs_3?color=blue&label=mainargs)
+* ![](https://img.shields.io/maven-central/v/com.lihaoyi/utest_3?color=blue&label=utest)
+* ![](https://img.shields.io/maven-central/v/com.lihaoyi/pprint_3?color=blue&label=pprint)
+* ![](https://img.shields.io/maven-central/v/com.lihaoyi/sourcecode_3?color=blue&label=sourcecode)
+* ![](https://img.shields.io/maven-central/v/com.lihaoyi/fansi_3?color=blue&label=fansi)
+* ![](https://img.shields.io/maven-central/v/com.lihaoyi/geny_3?color=blue&label=geny)
+* ![](https://img.shields.io/maven-central/v/com.lihaoyi/fastparse_3?color=blue&label=fastparse) 
+
+
+### Bounties
+
 The `com-lihaoyi` organization maintains an ongoing issue bounty program, paying out 100s to 1000s 
 of USD for the completion of various issues. See the up-to-date listing here:
 
@@ -30,8 +49,9 @@ of USD for the completion of various issues. See the up-to-date listing here:
 The `lihaoyi` projects are all open source, but if you want to learn more about writing
 Scala in the easy and productive way, you check out the following book:
 
-- [Hands-on Scala Programming: *learn the Scala language in a practical, project-based way*](https://www.handsonscala.com/)
+### Learn Scala
 
+- [Hands-on Scala Programming: *learn the Scala language in a practical, project-based way*](https://www.handsonscala.com/)
 
 *Hands-on Scala Programming* also comes with over 150 worked examples that demonstrate how to use
 Scala with the `lihaoyi` projects in a wide variety of real scenarios:
