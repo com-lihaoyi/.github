@@ -36,7 +36,7 @@ a variety of ways to perform many useful real-world tasks:
 * [![](https://img.shields.io/maven-central/v/com.lihaoyi/pprint_3?color=blue&label=pprint)](https://www.github.com/com-lihaoyi/pprint): a library for pretty-printing values, types and type-signatures
 * [![](https://img.shields.io/maven-central/v/com.lihaoyi/sourcecode_3?color=blue&label=sourcecode)](https://www.github.com/com-lihaoyi/sourcecode): a library providing "source" metadata to your program
 * [![](https://img.shields.io/maven-central/v/com.lihaoyi/fansi_3?color=blue&label=fansi)](https://www.github.com/com-lihaoyi/fansi): a library for manipulating Fancy Ansi colored strings
-* [![](https://img.shields.io/maven-central/v/com.lihaoyi/geny_3?color=blue&label=geny)](https://www.github.com/com-lihaoyi/geny): interfacces for manipulating streaming collections and bytestreams
+* [![](https://img.shields.io/maven-central/v/com.lihaoyi/geny_3?color=blue&label=geny)](https://www.github.com/com-lihaoyi/geny): interfaces for manipulating streaming collections and bytestreams
 
 
 ### Bounties
